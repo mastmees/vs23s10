@@ -1,0 +1,23 @@
+q       save and quit
+Q       quit, no saving
+arrows  move cursor
+pgup/<  prev char
+pgdn/>  next char
+space   flip dot
+i       invert char/block
+z       clear character
+d/u     rotate down/up
+l/r     rotate left/right
+      
+T       make chars taller
+S       make chars shorter
+W       make char wider
+N       make char narrower
+D       double size
+
+m       mark block
+c       copy char/block
+p       paste char/block
+
+s       show sample texts
+a       add new sample text
